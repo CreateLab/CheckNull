@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckNull", "CheckNull\CheckNull.csproj", "{3F5BB2E0-4D0E-4B55-A85F-08B6AAB2CBDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckGenerator", "CheckGenerator\CheckGenerator.csproj", "{F0F304F5-9243-40B0-8313-2B8711590ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5BB2E0-4D0E-4B55-A85F-08B6AAB2CBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5BB2E0-4D0E-4B55-A85F-08B6AAB2CBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5BB2E0-4D0E-4B55-A85F-08B6AAB2CBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5BB2E0-4D0E-4B55-A85F-08B6AAB2CBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F304F5-9243-40B0-8313-2B8711590ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F304F5-9243-40B0-8313-2B8711590ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F304F5-9243-40B0-8313-2B8711590ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F304F5-9243-40B0-8313-2B8711590ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
